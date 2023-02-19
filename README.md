@@ -114,6 +114,8 @@
 
 </details>
 
+Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/ASELONZ/Zaid-Vc-Player)
 
 ## 🚀 Okteto Deployment
 
